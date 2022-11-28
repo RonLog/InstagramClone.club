@@ -1,3 +1,3 @@
 # InstagramClone.club
 
-To visit site
+To visit site https://ronlog.github.io/InstagramClone.club/
