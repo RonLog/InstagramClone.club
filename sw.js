@@ -4,7 +4,8 @@ var filesToCache = [
     './index.html',
     './style.css',
     './main.js',
-    './script.js'
+    './script.js',
+    'https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap'
 ];
 
 /* Start the service worker and cache all of the app's content */
